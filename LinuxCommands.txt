@@ -1,0 +1,22 @@
+    1  python3 --version
+    2  sudo pip3 install -U pip
+    3  python3 --version
+    4  pip3 --version
+    5  pip3 install pandas
+    6  pip3 install librosa
+    7  pip3 install sndfile
+    9  sudo apt-get install python3.6-dev
+   10  sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-pil python-pyrex python-pyside.qtopengl idle-python3.6 qt4-dev-tools qt4-designer libqtgui4 libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4 python-qt4-gl libgle3 python-dev libssl-dev
+   13  sudo apt-get install build-essential libssl-dev libffi-dev python3.6-dev
+   14  sudo apt-get install lib32ncurses5-dev
+   15  sudo apt-get install libsndfile-dev
+   16  sudo pip3 install libsndfile-dev
+   17  sudo pip3 install libsndfile
+   18  sudo pip3 install sndfile
+   20  sudo pip3 install --upgrade chardet
+   21  sudo pip3 install requests
+   22  sudo pip3 uninstall urllib3
+   23  sudo pip3 install urllib3==1.22
+   24  sudo pip3 uninstall urllib3
+   25  sudo pip3 install urllib3
+
